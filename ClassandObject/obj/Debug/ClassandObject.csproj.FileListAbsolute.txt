@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\obj\Debug\ClassandObject.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\obj\Debug\ClassandObject.Properties.Resources.resources
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\obj\Debug\ClassandObject.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\obj\Debug\ClassandObject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\bin\Debug\ClassandObject.exe
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\bin\Debug\ClassandObject.pdb
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\obj\Debug\ClassandObject.exe
+C:\Users\Dell\source\repos\ClassandObject_ns\ClassandObject\obj\Debug\ClassandObject.pdb
